@@ -81,7 +81,7 @@ export default class AboutPage extends Component {
               to try new things. This is my thing. So this is all about me You
               can connect with me on{" "}
               <a
-                href="https://www.linkedin.com/in/niketan-wadaskar-3188321a0/"
+                href="https://www.linkedin.com/in/rohan-raj-7b5317241/"
                 target={"_blank"}
                 rel="noreferrer"
               >
@@ -109,7 +109,7 @@ export default class AboutPage extends Component {
               property, I used the redux middelewere. So yeah, all this is about
               Project Tech Stack.{" "}
               <a
-                href="https://github.com/nikuwadaskar/Ecommerce-React-app-ShoppingVilla-Practice"
+                href="https://github.com/Rohanchaudhary94/ecommerce-web"
                 target={"_blank"}
                 rel="noreferrer"
               >
