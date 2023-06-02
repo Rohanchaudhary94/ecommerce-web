@@ -63,14 +63,14 @@ export default class AboutPage extends Component {
           </Accordion.Title>
           <Accordion.Content active={activeIndex === 1}>
             <p>
-              Hello, my name is Niketan Wadaskar, and I created this project. I
+              Hello, my name is Rohan Raj, and I created this project. I
               am a front-end developer. I have completed my reactJS, html, CSS,
               and Javascript skills from Coding Ninjas. It was a really great
               experience to learn from such a great team. I have also done my
               DSA training from Coding Ninjas. I have also developed some
               projects that you can have a look into.{" "}
               <a
-                href="https://github.com/nikuwadaskar"
+                href="https://github.com/Rohanchaudhary94"
                 target={"_blank"}
                 rel="noreferrer"
               >
